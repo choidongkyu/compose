@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="horiz_pager_with_transition_title">Horizontal Pager: Transition</string>
+</resources>
